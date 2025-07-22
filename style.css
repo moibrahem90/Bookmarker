@@ -1,0 +1,23 @@
+body{
+    background-color: #F7ECDE;
+}
+
+.content{
+    border-top: 1px dotted black;
+    border-bottom: 1px dotted black;
+}
+
+h1{
+     ;
+}
+h2{
+    color: green;
+}
+.mark{
+    color: green;
+}
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
